@@ -1,0 +1,54 @@
+[
+    {
+      "model": "buyers.register",
+      "pk": 1,
+      "fields": {
+        "first_name":"xyz1",
+        "last_name":"xyz1",
+        "username":"buyeruser1",
+        "email":"xyz@gmail.com",
+        "phone_number":"+9112345678",
+        "password":"Buyeruser1@123",
+        "registered_at": "2023-06-18T07:41:35.609094Z"
+    }
+    },
+    {
+    "model": "buyers.register",
+    "pk": 2,
+    "fields": {
+      "first_name":"xyz2",
+      "last_name":"xyz2",
+      "username":"buyeruser2",
+      "email":"xyz@gmail.com",
+      "phone_number":"+9112345678",
+      "password":"Buyeruser2@123",
+      "registered_at": "2023-06-18T07:41:35.609094Z"
+  }
+  },
+  {
+    "model": "buyers.register",
+    "pk": 3,
+    "fields": {
+      "first_name":"xyz3",
+      "last_name":"xyz3",
+      "username":"buyeruser3",
+      "email":"xyz@gmail.com",
+      "phone_number":"+9112345678",
+      "password":"Buyeruser3@123",
+      "registered_at": "2023-06-18T07:41:35.609094Z"
+  }
+  },
+  {
+    "model": "buyers.register",
+    "pk": 4,
+    "fields": {
+      "first_name":"xyz4",
+      "last_name":"xyz4",
+      "username":"buyeruser4",
+      "email":"xyz@gmail.com",
+      "phone_number":"+9112345678",
+      "password":"Buyeruser4@123",
+      "registered_at": "2023-06-18T07:41:35.609094Z"
+  }
+  }
+  ]

@@ -1,0 +1,122 @@
+[
+    {
+      "model": "products.products",
+      "pk": 1,
+      "fields": {
+        "product_name": "alchemist",
+        "product_title": "best novel",
+        "product_category": "books",
+        "product_description": "djdsjjsjsdjjdjfkdkkdkdkjkjdjk",
+        "price": 350,
+        "qty": 30,
+        "created_at": "2023-06-18T09:40:13.864540Z",
+        "updated_at": null,
+        "seller": 1
+        }
+    },
+    {
+      "model": "products.products",
+      "pk": 2,
+      "fields": {
+        "product_name": "nike",
+        "product_title": "lite",
+        "product_category": "shoes",
+        "product_description": "djddjjdjfkdkkdkdkjkjdjk",
+        "price": 5350,
+        "qty": 20,
+        "created_at": "2023-06-18T09:40:13.864540Z",
+        "updated_at": null,
+        "seller": 1
+        }
+    },
+    {
+      "model": "products.products",
+      "pk": 3,
+      "fields": {
+        "product_name": "rich dad poor dad",
+        "product_title": "top selling novel",
+        "product_category": "books",
+        "product_description": "djddjjdjfkdkkdkdkjkjdjk",
+        "price": 550,
+        "qty": 30,
+        "created_at": "2023-06-18T09:40:13.864540Z",
+        "updated_at": null,
+        "seller": 2
+        }
+    },
+    {
+      "model": "products.products",
+      "pk": 4,
+      "fields": {
+        "product_name": "levis comformt",
+        "product_title": "best jeans",
+        "product_category": "cloths",
+        "product_description": "djddjjdjfkdkkdkdkjkjdjk",
+        "price": 950,
+        "qty": 40,
+        "created_at": "2023-06-18T09:40:13.864540Z",
+        "updated_at": null,
+        "seller": 2
+        }
+    },
+    {
+      "model": "products.products",
+      "pk": 5,
+      "fields": {
+        "product_name": "intelligent investor",
+        "product_title": "best stock market novel",
+        "product_category": "books",
+        "product_description": "djddjjdjfkdkkdkdkjkjdjk",
+        "price": 1350,
+        "qty": 40,
+        "created_at": "2023-06-18T09:40:13.864540Z",
+        "updated_at": null,
+        "seller": 3
+        }
+    },
+    {
+      "model": "products.products",
+      "pk": 6,
+      "fields": {
+        "product_name": "pepe shirt",
+        "product_title": "best shirt",
+        "product_category": "cloths",
+        "product_description": "djddjjdjfkdkkdkdkjkjdjk",
+        "price": 11350,
+        "qty": 40,
+        "created_at": "2023-06-18T09:40:13.864540Z",
+        "updated_at": null,
+        "seller": 3
+        }
+    },
+    {
+      "model": "products.products",
+      "pk": 7,
+      "fields": {
+        "product_name": "psychology of money",
+        "product_title": "motivating novel",
+        "product_category": "books",
+        "product_description": "djddjjdjfkdkkdkdkjkjdjk",
+        "price": 250,
+        "qty": 40,
+        "created_at": "2023-06-18T09:40:13.864540Z",
+        "updated_at": null,
+        "seller": 4
+        }
+    },
+    {
+      "model": "products.products",
+      "pk": 8,
+      "fields": {
+        "product_name": "nike 65bag",
+        "product_title": "long durable bag",
+        "product_category": "bags",
+        "product_description": "djddjjdjfkdkkdkdkdkkdldldjkjdjk",
+        "price": 2350,
+        "qty": 10,
+        "created_at": "2023-06-18T09:40:13.864540Z",
+        "updated_at": null,
+        "seller": 4
+        }
+    }
+]
